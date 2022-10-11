@@ -1,0 +1,78 @@
+
+html {
+  background-image: url(background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+body {
+  background-color: rgb(0 0 0 / 50%);
+  padding: 10%, 0%, 10%, 0%;
+  margin: 1.5% 19% 10% 19%;
+  font-family: sans-serif;
+  border-radius: 15px;
+}
+
+header {
+  text-align: center;
+  vertical-align: bottom;
+}
+
+.logo, .payoff, nav {
+  text-align: center;
+}
+
+.logo {
+  width: 23%;
+}
+
+.payoff {
+  color: #32cd32;
+  margin: 0% 0% 2% 0%;
+}
+
+main {
+  margin: -0% 10% 20% 10%;
+}
+
+nav {
+  background-color: #32cd32;
+  margin-top: -2%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#nav-submit {
+  font-size: 10px;
+}
+
+.h3, .body-text {
+  font-size: 20px;
+  color: white;
+}
+
+.body-text {
+  font-size: 13px;
+  opacity: 0.8;
+}
+
+.orange-bar {
+  font-size: 18px;
+  color: orange;
+  background-color: orange;
+  border-radius: 5px;
+}
+
+.green-bar {
+  font-size: 18px;
+  color: #32cd32;
+  background-color: #32cd32;
+  border-radius: 5px;
+}
+
+.red-bar {
+  font-size: 18px;
+  color: indianred;
+  background-color: indianred;
+  border-radius: 5px;
+}
